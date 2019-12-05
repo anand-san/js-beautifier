@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito:300);
+a {
+	text-decoration: none
+}
+body {
+	font-family: Nunito, sans-serif;
+	font-size: 18px;
+	text-align: center
+}
+
+textarea {
+    background: url(https://i.imgur.com/2cOaJ.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    padding-left: 35px!important;
+    padding-top: 10px;
+    border-color:#ccc;
+}
+textarea {
+    min-height: 500px;
+}
